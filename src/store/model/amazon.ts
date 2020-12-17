@@ -706,6 +706,14 @@ export const Amazon: Store = {
 			model: '600 platinum',
 			series: 'sf',
 			url: 'https://www.amazon.com/dp/B07F84FJ1G'
+		},
+		{
+			brand: 'asus',
+			cartUrl:
+				'https://www.amazon.com/gp/aws/cart/add.html?ASIN.1=B08MTKJ6HM&Quantity.1=1',
+			model: 'crosshair viii',
+			series: 'darkhero',
+			url: 'https://www.amazon.com/dp/B08MTKJ6HM'
 		}
 	],
 	name: 'amazon'
